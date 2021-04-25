@@ -38,4 +38,3 @@ build/
 # Doxygen output
 html/
 latex/
-external/googletest/googletest

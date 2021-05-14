@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.x
+
+# Build directory
+build/
+
+# Doxygen output
+html/
+latex/
